@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color:  
+ #333;
+}
+
+#top-left-menu {
+    float: left;
+}
+
+#top-right-menu {
+    float: right;
+}
+
+#bottom-menu {
+    text-align: center;
+}
